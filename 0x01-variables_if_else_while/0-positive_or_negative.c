@@ -6,6 +6,7 @@
  *
  * return :Always 0 (sucess/correct)
  */
+
 int main(void)
 {
 	int n;
@@ -19,6 +20,7 @@ int main(void)
 	else if (n<0)
 	{
 		printf ("%i is negative\n", n);
+	}
 	else
 	{
 		printf("%i is possitive\n", n);
