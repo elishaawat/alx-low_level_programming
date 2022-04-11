@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main entry point
+ * main -entry point
  *
  * return :Always 0 (sucess/correct)
  */
@@ -13,7 +13,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	if ( n==0 )
+	if ( n == 0 )
 	{
 		printf("%i is zero\n", n);
 	}
