@@ -3,7 +3,7 @@
  * Main -Entry point
  * Return :void
  */
-main jack_bauer(void)
+void jack_bauer(void);
 {
 	int h1;
 	int h2;
