@@ -1,6 +1,5 @@
 #include "main.h"
 #include<stdio.h>
-
 /**
  * _issuper -checks for uppercase character
  * @letter: the character to be tracked
@@ -12,6 +11,7 @@ int _isupper(int c)
 	{
 		return (1);
 	}
+
 	else
 	{
 		return (0);
