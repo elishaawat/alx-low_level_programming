@@ -1,7 +1,10 @@
 #include "main.h"
+
 /**
  * memset - fills string with constant char b upto n bytes
  * @s: input pointer to string
+ * @b: constant char
+ * @n: number of bytes
  * Return: pointer to s string
  */
 
